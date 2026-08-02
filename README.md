@@ -1,4 +1,4 @@
-# 🤖 Telegram Auto-Sort & Tag Bot (Cloudflare Workers)
+# 🤖 Telegram Storage (Cloudflare Workers)
 
 Bot Telegram cerdas berbasis **Cloudflare Workers** untuk menyortir file masuk (Gambar, Video, Dokumen) ke dalam forum topik/thread secara otomatis, lengkap dengan fitur **Auto-Tagging tanggal berbasis WIB** dan **Statistik Permanen (Cloudflare KV)**.
 
